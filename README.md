@@ -9,7 +9,7 @@ The application allows users to set reminders and receive notifications through 
 ## Demo - Screen
 ![Demo-Reminder App](https://user-images.githubusercontent.com/70791507/212602244-a1468595-7471-4cf6-960c-1fdff21f3b45.gif)
 
-## Library Reference
+## Library Reference & Installations
 
 #### Install in your Command Prompt or Windows Powershell using pip command
 
