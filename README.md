@@ -1,6 +1,12 @@
 
 # Reminder App with Speech Output - Python
 
+## <a href = 'https://github.com/bishalprasad321/Reminder-App-Python/releases/tag/2.0.0'> **v2.0 (Pre Release)** </a>
+
+The v2.0 is an advancement of the previous versions of Reminder App. Now, rather than taking and executing a single and monotonic reminder, It can now set and execute multiple reminders. From this version, the Reminder app will be able to take the input commands through speech from the user.
+
+## Reminder App v1.0
+
 This is a cool mini python project which reminds you your reminder at your specific time with a speech output.
 
 The application allows users to set reminders and receive notifications through speech output. 
